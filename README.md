@@ -4,5 +4,5 @@ Cite the code:  [![DOI](https://zenodo.org/badge/588248652.svg)](https://zenodo.
 
 
 ## Citations
-* H M Sarmad. Khan, A. Shaukat, M. Usman Akram and U. Asgher “Pixel wised prediction on COVID-19 CT imaginary: An automated based Image Segmentation Architecture". (Manuscript Under Consideration)
-* H M Sarmad. Khan, A. Shaukat, M. Usman Akram and U. Asgher “A comprehensive comparison of deep learning architectures for COVID-19 classification on CT and X-ray Imaginary". (Manuscript Under Consideration)
+* H M Sarmad. Khan, A. Shaukat, M. Usman Akram and U. Asgher “Pixel wised prediction on COVID-19 CT imaginary: An automated based Image Segmentation Architecture".
+* H M Sarmad. Khan, A. Shaukat, M. Usman Akram and U. Asgher “A comprehensive comparison of deep learning architectures for COVID-19 classification on CT and X-ray Imaginary".
