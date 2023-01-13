@@ -1,5 +1,12 @@
 This research proposes a comprehensive comparison of deep learning models for CAD (Computer-Aided Design) systems which differentiates between COVID-19 and normal healthy lungs of CT &amp; X-ray images using image classification and segment the radiological images of COVID-19 by using image segmentation.
 
+## Results
+![img](https://github.com/akmmes/MHealth-CLassification-Segmentation-of-COVID-19-using-Deep-Learning-Architectures/blob/main/Results%20and%20Diagrams/segmented%20images%20(Ground%20Truth%20vs%20Predicted).png)
+
+![img](https://github.com/akmmes/MHealth-CLassification-Segmentation-of-COVID-19-using-Deep-Learning-Architectures/blob/main/Results%20and%20Diagrams/Pixelwise%20Accuracy%20Reuslt%20%22medical%20segmentation%20dataset%22.png)
+
+
+
 Cite the code:  [![DOI](https://zenodo.org/badge/588248652.svg)](https://zenodo.org/badge/latestdoi/588248652)
 
 
