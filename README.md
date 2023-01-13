@@ -5,8 +5,6 @@ This research proposes a comprehensive comparison of deep learning models for CA
 
 ![img](https://github.com/akmmes/MHealth-CLassification-Segmentation-of-COVID-19-using-Deep-Learning-Architectures/blob/main/Results%20and%20Diagrams/Pixelwise%20Accuracy%20Reuslt%20%22medical%20segmentation%20dataset%22.png)
 
-## Evaluation Metrics
-
 | Architecture for Classification |
 | --- | 
 | VGG (16 - 19) | 
