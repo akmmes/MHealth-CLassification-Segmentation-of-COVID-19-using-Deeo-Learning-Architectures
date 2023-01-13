@@ -5,6 +5,26 @@ This research proposes a comprehensive comparison of deep learning models for CA
 
 ![img](https://github.com/akmmes/MHealth-CLassification-Segmentation-of-COVID-19-using-Deep-Learning-Architectures/blob/main/Results%20and%20Diagrams/Pixelwise%20Accuracy%20Reuslt%20%22medical%20segmentation%20dataset%22.png)
 
+## Evaluation Metrics
+
+| Architecture for Classification |
+| --- | 
+| VGG (16 - 19) | 
+| Resnet (50 - 101 V2 - 50 V2) |
+| Nasnet Large | 
+| Inception (V3 - Resnet V2) | 
+| Efficientnet | 
+| Xception | 
+| Mobilenet V2 | 
+| Densenet 121 | 
+
+| Architecture for Segmentation |
+| --- | 
+| Unet | 
+| Pyramid Scene Parsing Net |
+| Linknet | 
+| Feature Pyramid Network | 
+
 
 
 Cite the code:  [![DOI](https://zenodo.org/badge/588248652.svg)](https://zenodo.org/badge/latestdoi/588248652)
