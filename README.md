@@ -48,4 +48,6 @@ Library is build to work together with Keras and TensorFlow Keras frameworks
 Cite the code:  [![DOI](https://zenodo.org/badge/588248652.svg)](https://zenodo.org/badge/latestdoi/588248652)
 
 ## Credits
-All credits goes to Pavel Iakubovskii "https://github.com/qubvel/segmentation_models"
+The original idea for this project was taken from the Github repository created by Pavel Iakubovskii and would like to give credit to for their valuable contribution in the AI society. Without their work and inspiration, this project would not have been possible. We encourage others to check out Pavel Iakubovskii's Github repository for more information and updates.
+- https://github.com/qubvel
+- https://github.com/qubvel/segmentation_models
