@@ -14,16 +14,38 @@ My project aims to use deep learning techniques to detect COVID-19 in medical im
 
 
 ## Tech/framework used
+Library is build to work together with Keras and TensorFlow Keras frameworks
 - [Tensorflow](https://www.tensorflow.org)
 - [Keras](https://keras.io/)
 
 
 ## Installation
-- Tensorflow==2.1.0 (for segmentation)
-- Keras==2.3.1 (for segmentation)
+- Tensorflow==2.1.0 
+- Keras==2.3.1
+- Segmentation-models==0.2.1
 
-## Contribute
-Please hit the star button if you like. :)
+
+## Architectures
+| Architecture for Classification |
+| --- | 
+| VGG (16 - 19) | 
+| Resnet (50 - 101 V2 - 50 V2) |
+| Nasnet Large | 
+| Inception (V3 - Resnet V2) | 
+| Efficientnet | 
+| Xception | 
+| Mobilenet V2 | 
+| Densenet 121 | 
+
+| Architecture for Segmentation |
+| --- | 
+| Unet | 
+| Pyramid Scene Parsing Net |
+| Linknet | 
+| Feature Pyramid Network | 
+
+
+Cite the code:  [![DOI](https://zenodo.org/badge/588248652.svg)](https://zenodo.org/badge/latestdoi/588248652)
 
 ## Credits
 All credits goes to Pavel Iakubovskii "https://github.com/qubvel/segmentation_models"
