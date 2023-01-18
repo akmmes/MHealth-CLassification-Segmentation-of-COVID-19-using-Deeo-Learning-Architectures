@@ -16,6 +16,8 @@ The research aims to use deep learning techniques to detect COVID-19 in medical 
 - https://zenodo.org/record/3757476#.YZjtbE5BzIU
 
 ## Results
+![img](https://github.com/akmmes/MHealth-CLassification-Segmentation-of-COVID-19-using-Deep-Learning-Architectures/blob/main/Classification/Radiography%20DB/Confusion%20Matrix.png)
+
 ![img](https://github.com/akmmes/MHealth-CLassification-Segmentation-of-COVID-19-using-Deep-Learning-Architectures/blob/main/Segmentation/segmented%20images%20(Ground%20Truth%20vs%20Predicted).png)
 
 ![img](https://github.com/akmmes/MHealth-CLassification-Segmentation-of-COVID-19-using-Deep-Learning-Architectures/blob/main/Segmentation/Pixelwise%20Accuracy%20Reuslt%20%22medical%20segmentation%20dataset%22.png)
