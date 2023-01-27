@@ -61,3 +61,8 @@ Cite the code:  [![DOI](https://zenodo.org/badge/588248652.svg)](https://zenodo.
 The original idea for this project was taken from the Github repository created by Pavel Iakubovskii and would like to give credit to for their valuable contribution in the AI society. Without their work and inspiration, this project would not have been possible. We encourage others to check out Pavel Iakubovskii's Github repository for more information and updates.
 - https://github.com/qubvel
 - https://github.com/qubvel/segmentation_models
+
+
+## Citations
+* H M Sarmad. Khan, A. Shaukat, M. Usman Akram and U. Asgher “Pixel wised prediction on COVID-19 CT imaginary: An automated based Image Segmentation Architecture".
+* H M Sarmad. Khan, A. Shaukat, M. Usman Akram and U. Asgher “A comprehensive comparison of deep learning architectures for COVID-19 classification on CT and X-ray Imaginary".
