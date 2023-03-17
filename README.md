@@ -8,10 +8,14 @@ This research proposes a comprehensive comparison of deep learning models for CA
 The research aims to use deep learning techniques to detect COVID-19 in medical imaging such as CT scans and X-rays. The model was trained on a dataset of images from COVID-19 positive patients to learn the characteristic features of the disease in medical images. This allows for efficient and accurate detection of COVID-19 in medical imaging, which can assist in early diagnosis and treatment of the disease. Additionally, the model can be used as a tool for radiologists and other medical professionals to help them quickly identify COVID-19 in patients.
 
 ## Datasets
+
+Classification
 - https://github.com/ieee8023/covid-chestxray-dataset
 - https://github.com/UCSD-AI4H/COVID-CT
 - https://www.kaggle.com/tawsifurrahman/covid19-radiography-database/data
 - https://www.kaggle.com/plameneduardo/sarscov2-ctscan-dataset
+
+Segmentation
 - https://www.kaggle.com/c/covid-segmentation
 - https://zenodo.org/record/3757476#.YZjtbE5BzIU
 
